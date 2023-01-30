@@ -6,12 +6,17 @@
 
 # train data & test data
 Training data: It is the machine run-to-failure data.
+
 Testing data: It is the machine operating data without failure events recorded.
 
 id: type of machines
+
 cycle: the time unit
+
 setting1~10: settings of machines
+
 s1~33: sensor readings for each cycle
+
 RUL: Remaining Useful Life
 
 # Evaluaton
