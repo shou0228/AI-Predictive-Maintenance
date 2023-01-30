@@ -25,3 +25,5 @@ Evaluation of this assignment will be Mean Absolute Error
 In statistics, mean absolute error (MAE) is a measure of errors between paired observations expressing the same phenomenon. Examples of Y versus X include comparisons of predicted versus observed, subsequent time versus initial time, and one technique of measurement versus an alternative technique of measurement.
 
 Mean Absolute Error description
+
+[AI-Predictive-Maintenance 程式檔](https://github.com/shou0228/AI-Predictive-Maintenance/blob/main/111034531hw4.ipynb)
